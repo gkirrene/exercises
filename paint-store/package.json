@@ -1,0 +1,22 @@
+{
+  "name": "paint-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "lint": "eslint src/**/*.js",
+    "test": "tape -r babel-register test/**/*.js",
+    "build": "babel src -d dist",
+    "pretest": "npm run lint",
+    "prebuild": "npm run test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0",
+    "eslint": "^5.0.1",
+    "tape": "^4.9.1"
+  }
+}

@@ -1,0 +1,1261 @@
+[{
+    "id": "07b2756258bd4af89a2569d36b828a23",
+    "category": "Pink colors",
+    "name": "Pink",
+    "codes": {
+        "hex": "#FFC0CB",
+        "rgb": [255, 192, 203]
+    }
+},
+{
+    "id": "4f65973597774518a85944db1f25ad9e",
+    "category": "Pink colors",
+    "name": "LightPink",
+    "codes": {
+        "hex": "#FFB6C1",
+        "rgb": [255, 182, 193]
+    }
+},
+{
+    "id": "14276e1784134be3a33740618059c733",
+    "category": "Pink colors",
+    "name": "HotPink",
+    "codes": {
+        "hex": "#FF69B4",
+        "rgb": [255, 105, 180]
+    }
+},
+{
+    "id": "c8efd8045e7942baa2c00fe0257547f8",
+    "category": "Pink colors",
+    "name": "DeepPink",
+    "codes": {
+        "hex": "#FF1493",
+        "rgb": [255, 20, 147]
+    }
+},
+{
+    "id": "5399d7b6a88140f3b7db55ec6ab236b4",
+    "category": "Pink colors",
+    "name": "PaleVioletRed",
+    "codes": {
+        "hex": "#DB7093",
+        "rgb": [219, 112, 147]
+    }
+},
+{
+    "id": "3a16bc781f424ab8a382a0f25f00c983",
+    "category": "Pink colors",
+    "name": "MediumVioletRed",
+    "codes": {
+        "hex": "#C71585",
+        "rgb": [199, 21, 133]
+    }
+},
+{
+    "id": "89d19d9fb8524a28aaabedb8e7cafb8f",
+    "category": "Red colors",
+    "name": "LightSalmon",
+    "codes": {
+        "hex": "#FFA07A",
+        "rgb": [255, 160, 122]
+    }
+},
+{
+    "id": "e274a303c3b94bdd94372e96b6c2dec5",
+    "category": "Red colors",
+    "name": "Salmon",
+    "codes": {
+        "hex": "#FA8072",
+        "rgb": [250, 128, 114]
+    }
+},
+{
+    "id": "c02594f389924f1cbdb161052da0582e",
+    "category": "Red colors",
+    "name": "DarkSalmon",
+    "codes": {
+        "hex": "#E9967A",
+        "rgb": [233, 150, 122]
+    }
+},
+{
+    "id": "7055f82488f64749be63a13356dbe930",
+    "category": "Red colors",
+    "name": "LightCoral",
+    "codes": {
+        "hex": "#F08080",
+        "rgb": [240, 128, 128]
+    }
+},
+{
+    "id": "dc40e65e9c8749eb8be789ce9a759a26",
+    "category": "Red colors",
+    "name": "IndianRed",
+    "codes": {
+        "hex": "#CD5C5C",
+        "rgb": [205, 92, 92]
+    }
+},
+{
+    "id": "50326c3b34c54b6da43e2032b69367da",
+    "category": "Red colors",
+    "name": "Crimson",
+    "codes": {
+        "hex": "#DC143C",
+        "rgb": [220, 20, 60]
+    }
+},
+{
+    "id": "648ec95caf4b42caa8df536a199b1344",
+    "category": "Red colors",
+    "name": "FireBrick",
+    "codes": {
+        "hex": "#B22222",
+        "rgb": [178, 34, 34]
+    }
+},
+{
+    "id": "826b8192107f4ca38fc127cbc118403d",
+    "category": "Red colors",
+    "name": "DarkRed",
+    "codes": {
+        "hex": "#8B0000",
+        "rgb": [139, 0, 0]
+    }
+},
+{
+    "id": "cc07e355b4784496bc04ba55c34b2156",
+    "category": "Red colors",
+    "name": "Red",
+    "codes": {
+        "hex": "#FF0000",
+        "rgb": [255, 0, 0]
+    }
+},
+{
+    "id": "cc1005ce760a416292e74d42be1bb455",
+    "category": "Orange colors",
+    "name": "OrangeRed",
+    "codes": {
+        "hex": "#FF4500",
+        "rgb": [255, 69, 0]
+    }
+},
+{
+    "id": "92018456e17c43b69a2aeafd31009bcf",
+    "category": "Orange colors",
+    "name": "Tomato",
+    "codes": {
+        "hex": "#FF6347",
+        "rgb": [255, 99, 71]
+    }
+},
+{
+    "id": "83dc6fa525d94ae086553a748a76abac",
+    "category": "Orange colors",
+    "name": "Coral",
+    "codes": {
+        "hex": "#FF7F50",
+        "rgb": [255, 127, 80]
+    }
+},
+{
+    "id": "047bf0756caa4ea5bbc8fc7487ab0370",
+    "category": "Orange colors",
+    "name": "DarkOrange",
+    "codes": {
+        "hex": "#FF8C00",
+        "rgb": [255, 140, 0]
+    }
+},
+{
+    "id": "7ea90580057b4d78bc92e6dbd30301d9",
+    "category": "Orange colors",
+    "name": "Orange",
+    "codes": {
+        "hex": "#FFA500",
+        "rgb": [255, 165, 0]
+    }
+},
+{
+    "id": "ca6d5d0f0c7a4ad996b0629e082296d2",
+    "category": "Yellow colors",
+    "name": "Yellow",
+    "codes": {
+        "hex": "#FFFF00",
+        "rgb": [255, 255, 0]
+    }
+},
+{
+    "id": "ea5ad885d0154e2e9052df22f07071d6",
+    "category": "Yellow colors",
+    "name": "LightYellow",
+    "codes": {
+        "hex": "#FFFFE0",
+        "rgb": [255, 255, 224]
+    }
+},
+{
+    "id": "03c963c5dbf54ea694a8db404357c980",
+    "category": "Yellow colors",
+    "name": "LemonChiffon",
+    "codes": {
+        "hex": "#FFFACD",
+        "rgb": [255, 250, 205]
+    }
+},
+{
+    "id": "ee7c7175948a4263856acb0049305b27",
+    "category": "Yellow colors",
+    "name": "LightGoldenrodYellow",
+    "codes": {
+        "hex": "#FAFAD2",
+        "rgb": [250, 250, 210]
+    }
+},
+{
+    "id": "0255cba753764d109f546cdbd3d5e73a",
+    "category": "Yellow colors",
+    "name": "PapayaWhip",
+    "codes": {
+        "hex": "#FFEFD5",
+        "rgb": [255, 239, 213]
+    }
+},
+{
+    "id": "c37e1fc8b3264815ab60427dfbfa6bd3",
+    "category": "Yellow colors",
+    "name": "Moccasin",
+    "codes": {
+        "hex": "#FFE4B5",
+        "rgb": [255, 228, 181]
+    }
+},
+{
+    "id": "2da3b62d59364036ab672e93131473c1",
+    "category": "Yellow colors",
+    "name": "PeachPuff",
+    "codes": {
+        "hex": "#FFDAB9",
+        "rgb": [255, 218, 185]
+    }
+},
+{
+    "id": "40165a4ae6ad4a7088c2cb19ddcaecb6",
+    "category": "Yellow colors",
+    "name": "PaleGoldenrod",
+    "codes": {
+        "hex": "#EEE8AA",
+        "rgb": [238, 232, 170]
+    }
+},
+{
+    "id": "a588f7f93bcf4c75a1a80e327d1c9155",
+    "category": "Yellow colors",
+    "name": "Khaki",
+    "codes": {
+        "hex": "#F0E68C",
+        "rgb": [240, 230, 140]
+    }
+},
+{
+    "id": "dbca82e910934064b051bd94e6513e7b",
+    "category": "Yellow colors",
+    "name": "DarkKhaki",
+    "codes": {
+        "hex": "#BDB76B",
+        "rgb": [189, 183, 107]
+    }
+},
+{
+    "id": "4fbdad2c14db467c948d12bf09edcab4",
+    "category": "Yellow colors",
+    "name": "Gold",
+    "codes": {
+        "hex": "#FFD700",
+        "rgb": [255, 215, 0]
+    }
+},
+{
+    "id": "1cca4cfea25f45ce910058c7068b0191",
+    "category": "Brown colors",
+    "name": "Cornsilk",
+    "codes": {
+        "hex": "#FFF8DC",
+        "rgb": [255, 248, 220]
+    }
+},
+{
+    "id": "27761388cd054d32b3a9dcd15d859d9f",
+    "category": "Brown colors",
+    "name": "BlanchedAlmond",
+    "codes": {
+        "hex": "#FFEBCD",
+        "rgb": [255, 235, 205]
+    }
+},
+{
+    "id": "a5ab9f58d9e1412a886349e140891231",
+    "category": "Brown colors",
+    "name": "Bisque",
+    "codes": {
+        "hex": "#FFE4C4",
+        "rgb": [255, 228, 196]
+    }
+},
+{
+    "id": "1a8da578a5f54866b41034d824e95656",
+    "category": "Brown colors",
+    "name": "NavajoWhite",
+    "codes": {
+        "hex": "#FFDEAD",
+        "rgb": [255, 222, 173]
+    }
+},
+{
+    "id": "e0d0022d2012415c81bdf1e2b90fea30",
+    "category": "Brown colors",
+    "name": "Wheat",
+    "codes": {
+        "hex": "#F5DEB3",
+        "rgb": [245, 222, 179]
+    }
+},
+{
+    "id": "315fddfb9d0e43c49e7c7fd21c3d7bed",
+    "category": "Brown colors",
+    "name": "BurlyWood",
+    "codes": {
+        "hex": "#DEB887",
+        "rgb": [222, 184, 135]
+    }
+},
+{
+    "id": "581b9086f9bd4c5aa16b9fdf69aa20ab",
+    "category": "Brown colors",
+    "name": "Tan",
+    "codes": {
+        "hex": "#D2B48C",
+        "rgb": [210, 180, 140]
+    }
+},
+{
+    "id": "41960f58229543c8992e0743f04ea4be",
+    "category": "Brown colors",
+    "name": "RosyBrown",
+    "codes": {
+        "hex": "#BC8F8F",
+        "rgb": [188, 143, 143]
+    }
+},
+{
+    "id": "72373b7efc474941a54745451bd91d39",
+    "category": "Brown colors",
+    "name": "SandyBrown",
+    "codes": {
+        "hex": "#F4A460",
+        "rgb": [244, 164, 96]
+    }
+},
+{
+    "id": "7e20b9f1133543f4a7439cf577c78301",
+    "category": "Brown colors",
+    "name": "Goldenrod",
+    "codes": {
+        "hex": "#DAA520",
+        "rgb": [218, 165, 32]
+    }
+},
+{
+    "id": "c531ebc38ef64caeab0d2e1e1e71c62d",
+    "category": "Brown colors",
+    "name": "DarkGoldenrod",
+    "codes": {
+        "hex": "#B8860B",
+        "rgb": [184, 134, 11]
+    }
+},
+{
+    "id": "c5de0f0024184cd8a8c2e5562e34cb56",
+    "category": "Brown colors",
+    "name": "Peru",
+    "codes": {
+        "hex": "#CD853F",
+        "rgb": [205, 133, 63]
+    }
+},
+{
+    "id": "71eb3acaf5cb4dc880989decddfeb9dd",
+    "category": "Brown colors",
+    "name": "Chocolate",
+    "codes": {
+        "hex": "#D2691E",
+        "rgb": [210, 105, 30]
+    }
+},
+{
+    "id": "d93e0d5033c040fa9ce3c8fdedf0f539",
+    "category": "Brown colors",
+    "name": "SaddleBrown",
+    "codes": {
+        "hex": "#8B4513",
+        "rgb": [139, 69, 19]
+    }
+},
+{
+    "id": "98889183b12a48ee9c54d35ed0819f4f",
+    "category": "Brown colors",
+    "name": "Sienna",
+    "codes": {
+        "hex": "#A0522D",
+        "rgb": [160, 82, 45]
+    }
+},
+{
+    "id": "6da7e23cba5e4410b3598cf2d9364ee2",
+    "category": "Brown colors",
+    "name": "Brown",
+    "codes": {
+        "hex": "#A52A2A",
+        "rgb": [165, 42, 42]
+    }
+},
+{
+    "id": "c37cd9ffd1b9410b91663335cc437ec7",
+    "category": "Brown colors",
+    "name": "Maroon",
+    "codes": {
+        "hex": "#800000",
+        "rgb": [128, 0, 0]
+    }
+},
+{
+    "id": "714ddff0d598419ab2d89b87c715196c",
+    "category": "Green colors",
+    "name": "DarkOliveGreen",
+    "codes": {
+        "hex": "#556B2F",
+        "rgb": [85, 107, 47]
+    }
+},
+{
+    "id": "78ff83449cec416b91dd958de0544205",
+    "category": "Green colors",
+    "name": "Olive",
+    "codes": {
+        "hex": "#808000",
+        "rgb": [128, 128, 0]
+    }
+},
+{
+    "id": "ca4abd57926d40d088a9de3d0b8a8203",
+    "category": "Green colors",
+    "name": "OliveDrab",
+    "codes": {
+        "hex": "#6B8E23",
+        "rgb": [107, 142, 35]
+    }
+},
+{
+    "id": "e8bd903121914bf4a8e6dbb6da518990",
+    "category": "Green colors",
+    "name": "YellowGreen",
+    "codes": {
+        "hex": "#9ACD32",
+        "rgb": [154, 205, 50]
+    }
+},
+{
+    "id": "91798f2806794765bbe65ad176ff6fd6",
+    "category": "Green colors",
+    "name": "LimeGreen",
+    "codes": {
+        "hex": "#32CD32",
+        "rgb": [50, 205, 50]
+    }
+},
+{
+    "id": "ad2d01a5f05c4b19aa800eda34e89c2e",
+    "category": "Green colors",
+    "name": "Lime",
+    "codes": {
+        "hex": "#00FF00",
+        "rgb": [0, 255, 0]
+    }
+},
+{
+    "id": "a28592eff1374420a50c88e60b28b8c8",
+    "category": "Green colors",
+    "name": "LawnGreen",
+    "codes": {
+        "hex": "#7CFC00",
+        "rgb": [124, 252, 0]
+    }
+},
+{
+    "id": "012026ce963c44639ed443c4502aa587",
+    "category": "Green colors",
+    "name": "Chartreuse",
+    "codes": {
+        "hex": "#7FFF00",
+        "rgb": [127, 255, 0]
+    }
+},
+{
+    "id": "03fd162bd7184c65bd75376005851cdd",
+    "category": "Green colors",
+    "name": "GreenYellow",
+    "codes": {
+        "hex": "#ADFF2F",
+        "rgb": [173, 255, 47]
+    }
+},
+{
+    "id": "a9baf02325fc4d1ca67e5b71a1a871be",
+    "category": "Green colors",
+    "name": "SpringGreen",
+    "codes": {
+        "hex": "#00FF7F",
+        "rgb": [0, 255, 127]
+    }
+},
+{
+    "id": "82df111d64ac4ff2834081d81a60f343",
+    "category": "Green colors",
+    "name": "MediumSpringGreen",
+    "codes": {
+        "hex": "#00FA9A",
+        "rgb": [0, 250, 154]
+    }
+},
+{
+    "id": "0f6b5393fc6041cbbe868ea95e3a7735",
+    "category": "Green colors",
+    "name": "LightGreen",
+    "codes": {
+        "hex": "#90EE90",
+        "rgb": [144, 238, 144]
+    }
+},
+{
+    "id": "6ca87e49f5f44ffc8f25ddb5e2e86e5a",
+    "category": "Green colors",
+    "name": "PaleGreen",
+    "codes": {
+        "hex": "#98FB98",
+        "rgb": [152, 251, 152]
+    }
+},
+{
+    "id": "c9aaf6b43d16405bacb51db754626091",
+    "category": "Green colors",
+    "name": "DarkSeaGreen",
+    "codes": {
+        "hex": "#8FBC8F",
+        "rgb": [143, 188, 143]
+    }
+},
+{
+    "id": "516c7c08304f4cfb93259c651bfb8136",
+    "category": "Green colors",
+    "name": "MediumAquamarine",
+    "codes": {
+        "hex": "#66CDAA",
+        "rgb": [102, 205, 170]
+    }
+},
+{
+    "id": "99ac381fa5e0483091d053c0858970bc",
+    "category": "Green colors",
+    "name": "MediumSeaGreen",
+    "codes": {
+        "hex": "#3CB371",
+        "rgb": [60, 179, 113]
+    }
+},
+{
+    "id": "c8b4309dc9024be5bcae5b38cefd5428",
+    "category": "Green colors",
+    "name": "SeaGreen",
+    "codes": {
+        "hex": "#2E8B57",
+        "rgb": [46, 139, 87]
+    }
+},
+{
+    "id": "631a08e89e614d3a87172e6e6ab1f435",
+    "category": "Green colors",
+    "name": "ForestGreen",
+    "codes": {
+        "hex": "#228B22",
+        "rgb": [34, 139, 34]
+    }
+},
+{
+    "id": "3a1705f43f4749fbb038e009a9e635ac",
+    "category": "Green colors",
+    "name": "Green",
+    "codes": {
+        "hex": "#008000",
+        "rgb": [0, 128, 0]
+    }
+},
+{
+    "id": "c8ef1d0984214cf799a17c4a5fd579e6",
+    "category": "Green colors",
+    "name": "DarkGreen",
+    "codes": {
+        "hex": "#006400",
+        "rgb": [0, 100, 0]
+    }
+},
+{
+    "id": "59680e4af247434692abb8317c5c1fa5",
+    "category": "Cyan colors",
+    "name": "Aqua",
+    "codes": {
+        "hex": "#00FFFF",
+        "rgb": [0, 255, 255]
+    }
+},
+{
+    "id": "2706138f7b1848c4a4264e810dbe09b4",
+    "category": "Cyan colors",
+    "name": "Cyan",
+    "codes": {
+        "hex": "#00FFFF",
+        "rgb": [0, 255, 255]
+    }
+},
+{
+    "id": "e2daa32acffd40e894295e6d60d7d03c",
+    "category": "Cyan colors",
+    "name": "LightCyan",
+    "codes": {
+        "hex": "#E0FFFF",
+        "rgb": [224, 255, 255]
+    }
+},
+{
+    "id": "f8c38ab899784e66859e675e810238eb",
+    "category": "Cyan colors",
+    "name": "PaleTurquoise",
+    "codes": {
+        "hex": "#AFEEEE",
+        "rgb": [175, 238, 238]
+    }
+},
+{
+    "id": "4fb131d5645b47d29d02db700b5f2857",
+    "category": "Cyan colors",
+    "name": "Aquamarine",
+    "codes": {
+        "hex": "#7FFFD4",
+        "rgb": [127, 255, 212]
+    }
+},
+{
+    "id": "a1a78d8cb9354888abd2d4fdec826f62",
+    "category": "Cyan colors",
+    "name": "Turquoise",
+    "codes": {
+        "hex": "#40E0D0",
+        "rgb": [64, 224, 208]
+    }
+},
+{
+    "id": "50a37cdc0dd84122b4d10b3f85fb1ca8",
+    "category": "Cyan colors",
+    "name": "MediumTurquoise",
+    "codes": {
+        "hex": "#48D1CC",
+        "rgb": [72, 209, 204]
+    }
+},
+{
+    "id": "023d790eb7f44a67b504d9a6dae49109",
+    "category": "Cyan colors",
+    "name": "DarkTurquoise",
+    "codes": {
+        "hex": "#00CED1",
+        "rgb": [0, 206, 209]
+    }
+},
+{
+    "id": "e52f73c567b244339f8b40bc912b4113",
+    "category": "Cyan colors",
+    "name": "LightSeaGreen",
+    "codes": {
+        "hex": "#20B2AA",
+        "rgb": [32, 178, 170]
+    }
+},
+{
+    "id": "c46102982e5b4074ba92763ae0b6ff0c",
+    "category": "Cyan colors",
+    "name": "CadetBlue",
+    "codes": {
+        "hex": "#5F9EA0",
+        "rgb": [95, 158, 160]
+    }
+},
+{
+    "id": "fba59641cfe14f1fb097be989fb764ef",
+    "category": "Cyan colors",
+    "name": "DarkCyan",
+    "codes": {
+        "hex": "#008B8B",
+        "rgb": [0, 139, 139]
+    }
+},
+{
+    "id": "64e180c2d67744bb90b89f5d33efaeaf",
+    "category": "Cyan colors",
+    "name": "Teal",
+    "codes": {
+        "hex": "#008080",
+        "rgb": [0, 128, 128]
+    }
+},
+{
+    "id": "ab36833a3fea46b9a3cff29973929ce6",
+    "category": "Blue colors",
+    "name": "LightSteelBlue",
+    "codes": {
+        "hex": "#B0C4DE",
+        "rgb": [176, 196, 222]
+    }
+},
+{
+    "id": "63f6ee0e6b7d4fa9a9dcbed44457d7ab",
+    "category": "Blue colors",
+    "name": "PowderBlue",
+    "codes": {
+        "hex": "#B0E0E6",
+        "rgb": [176, 224, 230]
+    }
+},
+{
+    "id": "c1ed5230565b43df867e11b842db22ac",
+    "category": "Blue colors",
+    "name": "LightBlue",
+    "codes": {
+        "hex": "#ADD8E6",
+        "rgb": [173, 216, 230]
+    }
+},
+{
+    "id": "fdc4aed965774dde935a3d433b187b9b",
+    "category": "Blue colors",
+    "name": "SkyBlue",
+    "codes": {
+        "hex": "#87CEEB",
+        "rgb": [135, 206, 235]
+    }
+},
+{
+    "id": "160e963ce3d143878577bfa35b8a8f34",
+    "category": "Blue colors",
+    "name": "LightSkyBlue",
+    "codes": {
+        "hex": "#87CEFA",
+        "rgb": [135, 206, 250]
+    }
+},
+{
+    "id": "4039d77666794847ac7b0f754ccefa76",
+    "category": "Blue colors",
+    "name": "DeepSkyBlue",
+    "codes": {
+        "hex": "#00BFFF",
+        "rgb": [0, 191, 255]
+    }
+},
+{
+    "id": "2c7c4ee7d8fd4532b999d00fe263eff2",
+    "category": "Blue colors",
+    "name": "DodgerBlue",
+    "codes": {
+        "hex": "#1E90FF",
+        "rgb": [30, 144, 255]
+    }
+},
+{
+    "id": "6d0c8b8620ba4463aa1767fee1e14876",
+    "category": "Blue colors",
+    "name": "CornflowerBlue",
+    "codes": {
+        "hex": "#6495ED",
+        "rgb": [100, 149, 237]
+    }
+},
+{
+    "id": "32cb31c2bac84ee1be9202a243b264af",
+    "category": "Blue colors",
+    "name": "SteelBlue",
+    "codes": {
+        "hex": "#4682B4",
+        "rgb": [70, 130, 180]
+    }
+},
+{
+    "id": "139fc88f71744c339f3d337885761c70",
+    "category": "Blue colors",
+    "name": "RoyalBlue",
+    "codes": {
+        "hex": "#4169E1",
+        "rgb": [65, 105, 225]
+    }
+},
+{
+    "id": "e3637c72defb4639bb179b2c311e4607",
+    "category": "Blue colors",
+    "name": "Blue",
+    "codes": {
+        "hex": "#0000FF",
+        "rgb": [0, 0, 255]
+    }
+},
+{
+    "id": "ee8ff50ac67b462fa9f2e5e478b7beb1",
+    "category": "Blue colors",
+    "name": "MediumBlue",
+    "codes": {
+        "hex": "#0000CD",
+        "rgb": [0, 0, 205]
+    }
+},
+{
+    "id": "6c73786af9e2419881cbaf7457908d44",
+    "category": "Blue colors",
+    "name": "DarkBlue",
+    "codes": {
+        "hex": "#00008B",
+        "rgb": [0, 0, 139]
+    }
+},
+{
+    "id": "9c30bbba5a02420f81972472f4c248c4",
+    "category": "Blue colors",
+    "name": "Navy",
+    "codes": {
+        "hex": "#000080",
+        "rgb": [0, 0, 128]
+    }
+},
+{
+    "id": "6e4584944b4f49f1a1f8dc55344136b6",
+    "category": "Blue colors",
+    "name": "MidnightBlue",
+    "codes": {
+        "hex": "#191970",
+        "rgb": [25, 25, 112]
+    }
+},
+{
+    "id": "2464a9f7636f4269a41d541525570f2b",
+    "category": "Purple, violet, and magenta colors",
+    "name": "Lavender",
+    "codes": {
+        "hex": "#E6E6FA",
+        "rgb": [230, 230, 250]
+    }
+},
+{
+    "id": "1928989ab1604a678c9eb0865da8d15b",
+    "category": "Purple, violet, and magenta colors",
+    "name": "Thistle",
+    "codes": {
+        "hex": "#D8BFD8",
+        "rgb": [216, 191, 216]
+    }
+},
+{
+    "id": "5aad9bbd2315484bb636c8bffc19200a",
+    "category": "Purple, violet, and magenta colors",
+    "name": "Plum",
+    "codes": {
+        "hex": "#DDA0DD",
+        "rgb": [221, 160, 221]
+    }
+},
+{
+    "id": "c7acc9e2b30a4843ab92d7306d08cc81",
+    "category": "Purple, violet, and magenta colors",
+    "name": "Violet",
+    "codes": {
+        "hex": "#EE82EE",
+        "rgb": [238, 130, 238]
+    }
+},
+{
+    "id": "30ef416d1ad848d7b574a55b9b5e127b",
+    "category": "Purple, violet, and magenta colors",
+    "name": "Orchid",
+    "codes": {
+        "hex": "#DA70D6",
+        "rgb": [218, 112, 214]
+    }
+},
+{
+    "id": "07a3509ae2854ec7a6ad156763380db0",
+    "category": "Purple, violet, and magenta colors",
+    "name": "Fuchsia",
+    "codes": {
+        "hex": "#FF00FF",
+        "rgb": [255, 0, 255]
+    }
+},
+{
+    "id": "037248872bdd4658a43672467e665653",
+    "category": "Purple, violet, and magenta colors",
+    "name": "Magenta",
+    "codes": {
+        "hex": "#FF00FF",
+        "rgb": [255, 0, 255]
+    }
+},
+{
+    "id": "d631072e6ea6456dad5193cb55d950d6",
+    "category": "Purple, violet, and magenta colors",
+    "name": "MediumOrchid",
+    "codes": {
+        "hex": "#BA55D3",
+        "rgb": [186, 85, 211]
+    }
+},
+{
+    "id": "eecec37038b44d8f8b2380980e9624a5",
+    "category": "Purple, violet, and magenta colors",
+    "name": "MediumPurple",
+    "codes": {
+        "hex": "#9370DB",
+        "rgb": [147, 112, 219]
+    }
+},
+{
+    "id": "9e69c78af9b646ffa7c6f22c16f0e59d",
+    "category": "Purple, violet, and magenta colors",
+    "name": "BlueViolet",
+    "codes": {
+        "hex": "#8A2BE2",
+        "rgb": [138, 43, 226]
+    }
+},
+{
+    "id": "7869da1fee424f0595e1c07297a677b9",
+    "category": "Purple, violet, and magenta colors",
+    "name": "DarkViolet",
+    "codes": {
+        "hex": "#9400D3",
+        "rgb": [148, 0, 211]
+    }
+},
+{
+    "id": "c56707b4974347f3b34a630aac20fea9",
+    "category": "Purple, violet, and magenta colors",
+    "name": "DarkOrchid",
+    "codes": {
+        "hex": "#9932CC",
+        "rgb": [153, 50, 204]
+    }
+},
+{
+    "id": "99d08e3642c042e1af33964e0b48c0bd",
+    "category": "Purple, violet, and magenta colors",
+    "name": "DarkMagenta",
+    "codes": {
+        "hex": "#8B008B",
+        "rgb": [139, 0, 139]
+    }
+},
+{
+    "id": "1ad50ec5274340fb9d30d21a170876fb",
+    "category": "Purple, violet, and magenta colors",
+    "name": "Purple",
+    "codes": {
+        "hex": "#800080",
+        "rgb": [128, 0, 128]
+    }
+},
+{
+    "id": "4132fc5167cf4a599089d2b4ab02fdb3",
+    "category": "Purple, violet, and magenta colors",
+    "name": "Indigo",
+    "codes": {
+        "hex": "#4B0082",
+        "rgb": [75, 0, 130]
+    }
+},
+{
+    "id": "62de6c39d4514e7297619e0549ec5659",
+    "category": "Purple, violet, and magenta colors",
+    "name": "DarkSlateBlue",
+    "codes": {
+        "hex": "#483D8B",
+        "rgb": [72, 61, 139]
+    }
+},
+{
+    "id": "9bd5b9b0777f4c128e42b51c713718fa",
+    "category": "Purple, violet, and magenta colors",
+    "name": "SlateBlue",
+    "codes": {
+        "hex": "#6A5ACD",
+        "rgb": [106, 90, 205]
+    }
+},
+{
+    "id": "a7a02899ad36494d8f318327cfb41b10",
+    "category": "Purple, violet, and magenta colors",
+    "name": "MediumSlateBlue",
+    "codes": {
+        "hex": "#7B68EE",
+        "rgb": [123, 104, 238]
+    }
+},
+{
+    "id": "a325583ab5e24ff7ba1329dfc81d665d",
+    "category": "White colors",
+    "name": "White",
+    "codes": {
+        "hex": "#FFFFFF",
+        "rgb": [255, 255, 255]
+    }
+},
+{
+    "id": "1b43343ec57b4d50b8a72cbb0d0b1378",
+    "category": "White colors",
+    "name": "Snow",
+    "codes": {
+        "hex": "#FFFAFA",
+        "rgb": [255, 250, 250]
+    }
+},
+{
+    "id": "216e474e72c44013a1b91cca62bb3401",
+    "category": "White colors",
+    "name": "Honeydew",
+    "codes": {
+        "hex": "#F0FFF0",
+        "rgb": [240, 255, 240]
+    }
+},
+{
+    "id": "540b8f3f39774c908993aa27b89fb9e5",
+    "category": "White colors",
+    "name": "MintCream",
+    "codes": {
+        "hex": "#F5FFFA",
+        "rgb": [245, 255, 250]
+    }
+},
+{
+    "id": "dfd3a8f49ed449a482e0c3c5fae96118",
+    "category": "White colors",
+    "name": "Azure",
+    "codes": {
+        "hex": "#F0FFFF",
+        "rgb": [240, 255, 255]
+    }
+},
+{
+    "id": "35dcdd8c6ec340499d661583a266cc5e",
+    "category": "White colors",
+    "name": "AliceBlue",
+    "codes": {
+        "hex": "#F0F8FF",
+        "rgb": [240, 248, 255]
+    }
+},
+{
+    "id": "48361e3756514ef29a633545818bc37c",
+    "category": "White colors",
+    "name": "GhostWhite",
+    "codes": {
+        "hex": "#F8F8FF",
+        "rgb": [248, 248, 255]
+    }
+},
+{
+    "id": "708e98a5088c4ae59dabbaf749c81ab8",
+    "category": "White colors",
+    "name": "WhiteSmoke",
+    "codes": {
+        "hex": "#F5F5F5",
+        "rgb": [245, 245, 245]
+    }
+},
+{
+    "id": "6b6ad1826dcb48c38125764edd0f9321",
+    "category": "White colors",
+    "name": "Seashell",
+    "codes": {
+        "hex": "#FFF5EE",
+        "rgb": [255, 245, 238]
+    }
+},
+{
+    "id": "036614d619d74f778c06c2ed6841c1fc",
+    "category": "White colors",
+    "name": "Beige",
+    "codes": {
+        "hex": "#F5F5DC",
+        "rgb": [245, 245, 220]
+    }
+},
+{
+    "id": "ecca4eeca4454958881dbf6fb3fcf649",
+    "category": "White colors",
+    "name": "OldLace",
+    "codes": {
+        "hex": "#FDF5E6",
+        "rgb": [253, 245, 230]
+    }
+},
+{
+    "id": "994914832866417583846a417448fd91",
+    "category": "White colors",
+    "name": "FloralWhite",
+    "codes": {
+        "hex": "#FFFAF0",
+        "rgb": [255, 250, 240]
+    }
+},
+{
+    "id": "4d0c534e5f884799a938ac85c8c205e1",
+    "category": "White colors",
+    "name": "Ivory",
+    "codes": {
+        "hex": "#FFFFF0",
+        "rgb": [255, 255, 240]
+    }
+},
+{
+    "id": "b55bf5a853014a32b1c9abe5f60199ed",
+    "category": "White colors",
+    "name": "AntiqueWhite",
+    "codes": {
+        "hex": "#FAEBD7",
+        "rgb": [250, 235, 215]
+    }
+},
+{
+    "id": "c57f7ff09de8438fa10b5a4aa5f2303b",
+    "category": "White colors",
+    "name": "Linen",
+    "codes": {
+        "hex": "#FAF0E6",
+        "rgb": [250, 240, 230]
+    }
+},
+{
+    "id": "5028f313b2fe4972a87e7a6a5edba5ee",
+    "category": "White colors",
+    "name": "LavenderBlush",
+    "codes": {
+        "hex": "#FFF0F5",
+        "rgb": [255, 240, 245]
+    }
+},
+{
+    "id": "6e433cfa3ee5453997aba9fd2fa7a215",
+    "category": "White colors",
+    "name": "MistyRose",
+    "codes": {
+        "hex": "#FFE4E1",
+        "rgb": [255, 228, 225]
+    }
+},
+{
+    "id": "0b58207908f048399be8f5c3260d9f86",
+    "category": "Gray and black colors",
+    "name": "Gainsboro",
+    "codes": {
+        "hex": "#DCDCDC",
+        "rgb": [220, 220, 220]
+    }
+},
+{
+    "id": "08408eb1352c4c30ad521b89177a545d",
+    "category": "Gray and black colors",
+    "name": "LightGray",
+    "codes": {
+        "hex": "#D3D3D3",
+        "rgb": [211, 211, 211]
+    }
+},
+{
+    "id": "601aaecf030f432bacd3eb47a9a7962c",
+    "category": "Gray and black colors",
+    "name": "Silver",
+    "codes": {
+        "hex": "#C0C0C0",
+        "rgb": [192, 192, 192]
+    }
+},
+{
+    "id": "227849f299a04499a4772e9bf10979be",
+    "category": "Gray and black colors",
+    "name": "DarkGray",
+    "codes": {
+        "hex": "#A9A9A9",
+        "rgb": [169, 169, 169]
+    }
+},
+{
+    "id": "4a182cd17d094abb9b49974d0f5828f5",
+    "category": "Gray and black colors",
+    "name": "Gray",
+    "codes": {
+        "hex": "#808080",
+        "rgb": [128, 128, 128]
+    }
+},
+{
+    "id": "a24c2b8b21ee4c95bd9875a76923d13b",
+    "category": "Gray and black colors",
+    "name": "DimGray",
+    "codes": {
+        "hex": "#696969",
+        "rgb": [105, 105, 105]
+    }
+},
+{
+    "id": "416329cefd904348ae4b130f04369d84",
+    "category": "Gray and black colors",
+    "name": "LightSlateGray",
+    "codes": {
+        "hex": "#778899",
+        "rgb": [119, 136, 153]
+    }
+},
+{
+    "id": "db7d693c9fc947259191377eafa6fcbd",
+    "category": "Gray and black colors",
+    "name": "SlateGray",
+    "codes": {
+        "hex": "#708090",
+        "rgb": [112, 128, 144]
+    }
+},
+{
+    "id": "7615434c8758407da10a8ef765826c5f",
+    "category": "Gray and black colors",
+    "name": "DarkSlateGray",
+    "codes": {
+        "hex": "#2F4F4F",
+        "rgb": [47, 79, 79]
+    }
+},
+{
+    "id": "e7c62e08a42c4adbbbd9b43a2dd4ffff",
+    "category": "Gray and black colors",
+    "name": "Black",
+    "codes": {
+        "hex": "#000000",
+        "rgb": [0, 0, 0]
+    }
+}
+]
