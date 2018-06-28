@@ -1,11 +1,10 @@
 import test from 'tape';
+import fs from 'fs';
+import { PaintStore } from '../src/paint-store';
 
-test('A passing test', (assert) => {
-    assert.pass('Pass');
-    assert.end();
-});
+var paintStore = PaintStore(JSON.parse(fs.readFileSync("./test/colors.json")));
 
-test('A failing test', (assert) => {
-    assert.equal(1, 0, '');
+test('paintStore.colors.count() should return 140', (assert) => {
+    assert.equal(paintStore.colors.count(), 140);
     assert.end();
 });
